@@ -5,19 +5,19 @@ Repositório para compartilhamento de conteúdos didáticos ou informativos nas 
 Observação importante:
 Todas as áreas estão interconectadas, resultando assim na inclusão de determinados conteúdos em classificações aparentemente não pertinentes, porém relevantes para o avanço profissional dentro de seus respectivos domínios.
 
-REDES
+[REDES](https://github.com/hackinrio/Academy/tree/b5a3f8412b2aee3a0248bbc47896d5bf6e18e976/REDES)
 
-SISTEMAS OPERACIONAIS
+[SISTEMAS OPERACIONAIS](https://github.com/hackinrio/Academy/tree/main/SISTEMAS%20OPERACIONAIS)
 
-ARQUITETURA DE COMPUTADORES
+[ARQUITETURA DE COMPUTADORES](https://github.com/hackinrio/Academy/tree/main/ARQUITETURA%20DE%20COMPUTADORES)
 
-APPSEC / DEVSECOPS
+[APPSEC / DEVSECOPS](https://github.com/hackinrio/Academy/tree/main/APPSEC%20%20DEVSECOPS)
 
-PENTEST
+[PENTEST](https://github.com/hackinrio/Academy/tree/main/PENTEST)
 
 GESTÃO DE VULNERABILIDADES
 
-THREAT INTELLIGENCE
+[THREAT INTELLIGENCE](https://github.com/hackinrio/Academy/tree/main/THREAT%20INTELLIGENCE)
 
 RESPOSTA A INCIDENTES
 
