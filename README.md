@@ -29,6 +29,11 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * GOVERNANÇA, RISCO E COMPLIANCE
 
+### Certificações
+
+* Security+
+* CRISC
+
 
 ## Como Contribuir
 
