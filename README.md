@@ -11,13 +11,13 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * [SISTEMAS OPERACIONAIS](https://github.com/hackinrio/Academy/tree/main/SISTEMAS%20OPERACIONAIS)
 
-* [ARQUITETURA DE COMPUTADORES](https://github.com/hackinrio/Academy/tree/main/ARQUITETURA%20DE%20COMPUTADORES)
+* ARQUITETURA DE COMPUTADORES
 
 ### Áreas de Atuação
 
 * [APPSEC / DEVSECOPS](https://github.com/hackinrio/Academy/tree/main/APPSEC%20%20DEVSECOPS)
 
-* [PENTEST](https://github.com/hackinrio/Academy/tree/main/PENTEST)
+* PENTEST
 
 * [GESTÃO DE VULNERABILIDADES](https://github.com/hackinrio/Academy/tree/main/GEST%C3%83O%20DE%20VULNERABILIDADES)
 
