@@ -4,3 +4,4 @@ Cursos de Resposta a Incidentes
 - SC 200 [Canal da Cloud](https://www.youtube.com/playlist?list=PLz3hnOImntAO8hKG2NZrwuo3N24k0-rc5) (youtube)
 - [DFIR Starter](https://academiadeforensedigital.com.br/treinamentos/dfir-starter/) - Academia Forense Digital (gratuito)
 - [Análise de Malware](https://academiadeforensedigital.com.br/treinamentos/analise-de-malware-starter/) - Academia Forense Digital (gratuito)
+- SPLUNK> [Free training](https://www.splunk.com/en_us/training/free-courses/overview.html)
