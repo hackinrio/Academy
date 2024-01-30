@@ -26,7 +26,7 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * [GESTÃO DE VULNERABILIDADES](https://github.com/hackinrio/Academy/tree/main/GEST%C3%83O%20DE%20VULNERABILIDADES)
 
-* [THREAT INTELLIGENCE](https://github.com/hackinrio/Academy/tree/main/THREAT%20INTELLIGENCE)
+* THREAT INTELLIGENCE
 
 * [RESPOSTA A INCIDENTES](https://github.com/hackinrio/Academy/tree/97d9f3744eeed52fba8b0d71118c7b442af31f9f/RESPOSTA%20A%20INCIDENTES)
 
@@ -37,7 +37,11 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 ### :trophy: Certificações
 
 * Security+
+* CySA+
 * CRISC
+* CISSP
+* CISA
+* CISM
 
 
 ## :bulb: Como Contribuir
