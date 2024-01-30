@@ -5,3 +5,4 @@ Cursos de Resposta a Incidentes
 - [DFIR Starter](https://academiadeforensedigital.com.br/treinamentos/dfir-starter/) - Academia Forense Digital (gratuito)
 - [Análise de Malware](https://academiadeforensedigital.com.br/treinamentos/analise-de-malware-starter/) - Academia Forense Digital (gratuito)
 - SPLUNK> [Free training](https://www.splunk.com/en_us/training/free-courses/overview.html)
+- VirusTotal Academy - [SOC & IR](https://www.youtube.com/playlist?list=PLQ8_y8jaKwSWlkxqnEZUOihOuieN3gvbe) (youtube)
