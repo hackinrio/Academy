@@ -18,6 +18,10 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * ARQUITETURA DE COMPUTADORES
 
+### :briefcase: Carreira
+
+* [EMPREGABILIDADE](https://github.com/hackinrio/Academy/tree/main/EMPREGABILIDADE)
+
 ### :mortar_board: Áreas de Atuação
 
 * [APPSEC / DEVSECOPS](https://github.com/hackinrio/Academy/tree/main/APPSEC%20%20DEVSECOPS)
