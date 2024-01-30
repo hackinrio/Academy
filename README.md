@@ -5,7 +5,7 @@ Repositório para compartilhamento de conteúdos didáticos ou informativos nas 
 **Observação importante:**\
 Todas as áreas estão interconectadas, resultando assim na inclusão de determinados conteúdos em classificações aparentemente não pertinentes, porém relevantes para o avanço profissional dentro de seus respectivos domínios.
 
-### Conhecimentos Básicos (essenciais)
+### :baby: Conhecimentos Básicos (essenciais)
 
 * [REDES](https://github.com/hackinrio/Academy/tree/b5a3f8412b2aee3a0248bbc47896d5bf6e18e976/REDES)
 
@@ -13,7 +13,7 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * ARQUITETURA DE COMPUTADORES
 
-### Áreas de Atuação
+### :mortar_board: Áreas de Atuação
 
 * [APPSEC / DEVSECOPS](https://github.com/hackinrio/Academy/tree/main/APPSEC%20%20DEVSECOPS)
 
@@ -29,13 +29,13 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * GOVERNANÇA, RISCO E COMPLIANCE
 
-### Certificações
+### :trophy: Certificações
 
 * Security+
 * CRISC
 
 
-## Como Contribuir
+## :bulb: Como Contribuir
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas as contribuições são **extremamente apreciadas**
 
