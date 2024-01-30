@@ -19,7 +19,7 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * [PENTEST](https://github.com/hackinrio/Academy/tree/main/PENTEST)
 
-* GESTÃO DE VULNERABILIDADES
+* [GESTÃO DE VULNERABILIDADES](https://github.com/hackinrio/Academy/tree/main/GEST%C3%83O%20DE%20VULNERABILIDADES)
 
 * [THREAT INTELLIGENCE](https://github.com/hackinrio/Academy/tree/main/THREAT%20INTELLIGENCE)
 
