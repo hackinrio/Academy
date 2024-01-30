@@ -1,0 +1,1 @@
+Luciano Responde - [Currículo, Narrativa e Networking: os 3 pilares da empregabilidade](https://www.youtube.com/watch?v=w1cL4x-3mWk) (youtube)
