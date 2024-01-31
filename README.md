@@ -42,7 +42,7 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 
 * Security+
 * CySA+
-* CRISC
+* [CRISC](https://github.com/hackinrio/Academy/tree/main/CRISC)
 * CISSP
 * CISA
 * CISM
