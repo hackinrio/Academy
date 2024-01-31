@@ -46,6 +46,7 @@ Todas as áreas estão interconectadas, resultando assim na inclusão de determi
 * CISSP
 * CISA
 * CISM
+* DCPT
 
 
 ## :bulb: Como Contribuir
